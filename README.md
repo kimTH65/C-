@@ -93,4 +93,4 @@ namespace Test
 ```
 
 <hr>
-Rezex,
+Regex
